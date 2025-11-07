@@ -2,6 +2,15 @@
 
 Aplicacao web para gerenciar a reserva de laboratorios e salas em um ambiente academico. Permite cadastrar espacos, controlar disponibilidade por aula/turno e efetuar agendamentos com atualizacao em tempo real para todos os usuarios autenticados.
 
+<img width="1856" height="881" alt="image" src="https://github.com/user-attachments/assets/b02d596a-8405-48ee-9c4b-197e6ed20be0" />
+
+<img width="1472" height="623" alt="image" src="https://github.com/user-attachments/assets/5de3831a-bb01-48a7-b1f0-bbb1bd7f3605" />
+
+<img width="1510" height="710" alt="image" src="https://github.com/user-attachments/assets/3039c172-4024-4c58-b7f0-410cf04b3ce9" />
+
+<img width="1478" height="777" alt="image" src="https://github.com/user-attachments/assets/0cb4663c-fc8e-4df7-8e07-baebe2beeba1" />
+
+
 ## Indice
 
 - [Visao Geral](#visao-geral)
